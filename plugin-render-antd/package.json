@@ -1,6 +1,6 @@
 {
   "name": "@vxe-ui/plugin-render-antd-smart-boot",
-  "version": "4.0.7",
+  "version": "4.0.7-v2",
   "description": "Vxe UI plug-in for compatibility with the ant-design-vue component.",
   "scripts": {
     "lib": "gulp build"
