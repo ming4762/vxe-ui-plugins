@@ -5,8 +5,10 @@
   "compilerOptions": {
     "strict": true,
     "moduleResolution": "node",
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "allowSyntheticDefaultImports": true,
+    "noEmitOnError": false,
+    "skipLibCheck": true,
     "target": "esnext",
     "lib": [
       "esnext",

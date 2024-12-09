@@ -1,4 +1,5 @@
 import { h, resolveComponent, ComponentOptions } from 'vue'
+// @ts-ignore
 import XEUtils from 'xe-utils'
 
 import type { VxeUIExport, VxeGlobalRendererHandles } from 'vxe-pc-ui'

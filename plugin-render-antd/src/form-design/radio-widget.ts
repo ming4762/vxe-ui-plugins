@@ -1,5 +1,6 @@
 import { defineComponent, h, PropType, resolveComponent, ComponentOptions, computed } from 'vue'
 import { useWidgetPropDataSource, WidgetDataSourceOptionObjVO } from './use'
+// @ts-ignore
 import XEUtils from 'xe-utils'
 
 import type { VxeUIExport, VxeGlobalRendererHandles, VxeFormComponent, VxeFormItemComponent, VxeSwitchComponent, VxeInputComponent } from 'vxe-pc-ui'

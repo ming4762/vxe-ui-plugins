@@ -1,5 +1,5 @@
 {
-  "name": "@vxe-ui/plugin-render-antd",
+  "name": "@vxe-ui/plugin-render-antd-smart-boot",
   "version": "4.0.7",
   "description": "Vxe UI plug-in for compatibility with the ant-design-vue component.",
   "scripts": {
@@ -69,5 +69,8 @@
   "bugs": {
     "url": "https://github.com/x-extends/vxe-ui-plugins/issues"
   },
-  "homepage": "https://github.com/x-extends/vxe-ui-plugins#readme"
+  "homepage": "https://github.com/x-extends/vxe-ui-plugins#readme",
+  "publishConfig": {
+    "registry": "https://maven.gc-it.cn/repository/npm-lianya-develop"
+  }
 }
